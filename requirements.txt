@@ -1,0 +1,3 @@
+crawl4ai[all]
+python-dotenv
+google-generativeai
